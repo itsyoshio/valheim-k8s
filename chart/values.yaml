@@ -1,7 +1,7 @@
 worldName: example-world-name
 serverName: example-server-name
 password: password
-valheimplus: "true"
+valheimplus: "false"
 
 resources: {}
 
