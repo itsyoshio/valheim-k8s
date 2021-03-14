@@ -26,7 +26,7 @@ spec:
         - name: SERVER_PASS
           value: {{ .Values.password }}
         - name: VALHEIM_PLUS
-          value: {{ .Values.valheimplus }}
+          value: true
         ports:
         - containerPort: 2456
           name: game1
